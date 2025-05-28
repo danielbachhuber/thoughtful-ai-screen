@@ -21,7 +21,7 @@ from sort import sort
 
 # Example package: 100cm x 100cm x 100cm, 15kg
 result = sort(100, 100, 100, 15)
-print(result)  # Output: STANDARD
+print(result)  # Output: SPECIAL
 ```
 
 ## Categories
